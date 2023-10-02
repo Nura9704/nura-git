@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="editText_email">email</string>
+    <string name="editText_password">password</string>
+    <string name="btn_login">LOG IN</string>
+    <string name="textView_progress">Идет загрузка, подождите…</string>
+    <string name="textViewTitle">Заполните анкету</string>
+    <string name="radioButtonTitle">Ваш пол</string>
+    <string name="radioButtonText1">Мужской</string>
+    <string name="radioButtonText2">Женский</string>
+    <string name="checkBoxTitle">Ваш статус</string>
+    <string name="checkBoxText1">Студент</string>
+    <string name="checkBoxText2">Работаю</string>
+    <string name="checkBoxText3">Пенсионер</string>
+    <string name="checkBoxText4">Неизвестно</string>
+    <string name="headerText">Online Shopping</string>
+    <string name="icPersonText">Person</string>
+    <string name="icCartText">Cart</string>
+    <string name="icEmailText">Email</string>
+    <string name="icPeopleText">Friends</string>
+
+</resources>
